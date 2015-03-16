@@ -1,5 +1,22 @@
 # iot
 
+## Platforms
+
+### Raspberry Pi
+
+### Spark
+
+#### Core
+
+* https://store.spark.io/?product=spark-core
+
+#### Photon
+
+* https://store.spark.io/?product=spark-photon
+* 
+
+#### Electron
+
 
 ## Data Backends
 
